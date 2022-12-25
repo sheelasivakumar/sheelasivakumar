@@ -8,9 +8,6 @@ Hi 👋,  I’m Sheela Sivakumar
 - 📧 How to reach me: sheelaomsri.ad21@bitsathy.ac.in
 - ☑️ LinkedIn: www.linkedin.com/in/sheela-sivakumar-28245a25a
 
-𝐀𝐛𝐨𝐮𝐭 
-
-   I'm a Second year student at Bannari Amman Institute of Technology. Currently Focusing on Developing my skills to become a Software Developer.
 
 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
    
