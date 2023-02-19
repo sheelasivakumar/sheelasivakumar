@@ -5,17 +5,7 @@ Hi 👋,  I’m Sheela Sivakumar
 - 👀 I’m interested in Blockchain | Machine Learning
 - 🌱 I’m currently Looking for novelty things
 - ⚡ Remainder: "𝙳𝚛𝚎𝚊𝚖 𝚠𝚊𝚜 𝚙𝚕𝚊𝚗𝚝𝚎𝚍 𝚒𝚗 𝚘𝚞𝚛 𝚑𝚎𝚊𝚛𝚝 𝚏𝚘𝚛 𝚊 𝚛𝚎𝚊𝚜𝚘𝚗
-- 📧 How to reach me: sheelaomsri.ad21@bitsathy.ac.in
-- ☑️ LinkedIn: www.linkedin.com/in/sheela-sivakumar-28245a25a
 
-
-𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
-   
-      ◽Solidity
-   
-      ◽Basics of Machine Learning
-   
-      ◽Frontend (ReactJS)
 
 <!---
 sheelasivakumar/sheelasivakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
